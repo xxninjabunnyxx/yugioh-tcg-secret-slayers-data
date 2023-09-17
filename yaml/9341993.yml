@@ -1,0 +1,31 @@
+---
+id: 9341993
+name: Adamancipator Relief
+type: Trap Card
+frameType: trap
+desc: Tribute any number of "Adamancipator" monsters, then target cards on the field
+  equal to that number +1; destroy them.
+race: Normal
+archetype: Adamancipator
+card_sets:
+- set_name: 2021 Tin of Ancient Battles
+  set_code: MP21-EN235
+  set_rarity: Super Rare
+  set_rarity_code: "(SR)"
+  set_price: '0.93'
+- set_name: Secret Slayers
+  set_code: SESL-EN012
+  set_rarity: Secret Rare
+  set_rarity_code: "(ScR)"
+  set_price: '1.83'
+card_images:
+- id: 9341993
+  image_url: https://images.ygoprodeck.com/images/cards/9341993.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/9341993.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/9341993.jpg
+card_prices:
+- cardmarket_price: '0.06'
+  tcgplayer_price: '0.12'
+  ebay_price: '0.99'
+  amazon_price: '0.25'
+  coolstuffinc_price: '0.49'
